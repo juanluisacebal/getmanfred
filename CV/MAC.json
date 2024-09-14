@@ -1,0 +1,195 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Luis",
+      "surnames": "Acebal Rico",
+      "title": "Python/data engineer",
+      "description": "Ingeniero de Datos Junior con experiencia en Python, SQL, y gestión de pipelines de datos. Amplia experiencia en análisis de datos, modelado predictivo, así como en la administración y automatización de sistemas. Busco contribuir a proyectos de alto impacto en un entorno que promueva la innovación y el aprendizaje continuo.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJvQz5TjvKvJURh47oiC6Bs6A)",
+        "country": "Argentina",
+        "region": "Buenos Aires",
+        "municipality": "Buenos Aires"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanluisacebal"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Teleperformance Blagnac"
+        },
+        "roles": [
+          {
+            "name": "Administración de sistemas",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "• Gestión de Active Directory y automatización de tareas con Shell\nscripting.\n• Administración de sistemas on-premise y soporte en la gestión de\nMSSQL y SSIS."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autonomo"
+        },
+        "roles": [
+          {
+            "name": "Freelance IT",
+            "startDate": "2013-09-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "• Proporcioné principalmente servicios de mantenimiento y\nreparación de hardware, instalación y configuración de software,\nasí como soporte para redes.\n• Gestión de proyectos a tiempo completo (2013-2015) y a tiempo\nparcial (2016-2020), adaptándome a las necesidades de los clientes\npara asegurar el funcionamiento óptimo de sus sistemas\ninformáticos."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft SQL Integration Services (SSIS)",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/juanluisacebal",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "data@juanluisacebal.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Data Engineer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Power BI",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ]
+  }
+}
